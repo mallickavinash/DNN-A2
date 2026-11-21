@@ -1,0 +1,361 @@
+=== temperature 0.2 (top-k 40, 500 characters) ===
+The shall the shall the come the be the good the with the heart
+The shall the be the so the have some to the die
+The with the did the comme the so the sould the fair
+The the come of the with the see and the death.
+
+Second Clord the come of the be my lord,
+The prove the the shall the stand the have and the word
+That her the the commpent so the words the shall the will
+The shall the see the sould the sentle the done.
+
+KING RICHARD III:
+I will the shall here the sould of the shall the come.
+
+CORIOL
+
+=== temperature 0.8 (top-k 40, 500 characters) ===
+thy for this with the do thee hand,
+And gelst than of to givent beare his heave bein
+To says him; that of to his percaices is
+And trunk-dayam the here hother a made of the with scont
+show the carre of my prace him fill my honours
+Not me of me fleom with the me sto dim.
+
+KING EDWARD IV:
+Nor hath father, what do heard do liefter;
+And for should to my range be since excures.
+
+GLOUCESTER:
+When the pinty rown of the partace fair betther.
+
+BRUTUS:
+All you which him.
+
+QUEEN MARGARET:
+If lies a comet th
+
+=== temperature 1.5 (top-k 40, 500 characters) ===
+thy, mhis kiswas:
+LeWloHck nexmany, in IgAlet, grecousesy his:
+Yet re hath Doogs o'ell! Take him; that's your wake
+Fareces is exforr nend handst! He paust I dai' whice?
+
+LEONTESS:
+Hows uzy,
+I car. So Imy pradithie-mily.
+Woe, he say, if come?
+
+GORIZOLAANG ETH:
+fuencing.
+I in, S youndern'd kneved Edward..
+HOM:
+Awhen, helmoin,
+If; thy for show, wilt you or heads beveems,
+Onfor well wilr Ganlio.
+That prI. Thou willow now unfair!
+
+MERCALIO:
+PEtiienliess; why, sheads, butonss. Whyll I-ullest I, het fe
+
+=== (ablation) NO causal mask, temperature 0.8: generation is not a valid autoregressive model ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

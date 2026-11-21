@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="30" text-anchor="middle" font-family="sans-serif" font-size="20">UCI HAR class balance (validation seed 11)</text>
+<line x1="85" y1="395.0" x2="865" y2="395.0" stroke="#dddddd"/>
+<text x="75" y="400.0" text-anchor="end" font-family="sans-serif" font-size="12">0</text>
+<line x1="85" y1="285.0" x2="865" y2="285.0" stroke="#dddddd"/>
+<text x="75" y="290.0" text-anchor="end" font-family="sans-serif" font-size="12">500</text>
+<line x1="85" y1="175.0" x2="865" y2="175.0" stroke="#dddddd"/>
+<text x="75" y="180.0" text-anchor="end" font-family="sans-serif" font-size="12">1000</text>
+<line x1="85" y1="65.0" x2="865" y2="65.0" stroke="#dddddd"/>
+<text x="75" y="70.0" text-anchor="end" font-family="sans-serif" font-size="12">1500</text>
+<text x="22" y="230.0" transform="rotate(-90 22 230.0)" text-anchor="middle" font-family="sans-serif" font-size="14">Number of windows</text>
+<rect x="114.0" y="179.2" width="22" height="215.8" fill="#4472C4"/>
+<rect x="139.0" y="341.1" width="22" height="53.9" fill="#ED7D31"/>
+<rect x="164.0" y="285.9" width="22" height="109.1" fill="#70AD47"/>
+<text x="150.0" y="423" transform="rotate(-15 150.0 423)" text-anchor="end" font-family="sans-serif" font-size="12">walking</text>
+<rect x="244.0" y="205.4" width="22" height="189.6" fill="#4472C4"/>
+<rect x="269.0" y="348.6" width="22" height="46.4" fill="#ED7D31"/>
+<rect x="294.0" y="291.4" width="22" height="103.6" fill="#70AD47"/>
+<text x="280.0" y="423" transform="rotate(-15 280.0 423)" text-anchor="end" font-family="sans-serif" font-size="12">walking upstairs</text>
+<rect x="374.0" y="221.4" width="22" height="173.6" fill="#4472C4"/>
+<rect x="399.0" y="351.7" width="22" height="43.3" fill="#ED7D31"/>
+<rect x="424.0" y="302.6" width="22" height="92.4" fill="#70AD47"/>
+<text x="410.0" y="423" transform="rotate(-15 410.0 423)" text-anchor="end" font-family="sans-serif" font-size="12">walking downstairs</text>
+<rect x="504.0" y="166.0" width="22" height="229.0" fill="#4472C4"/>
+<rect x="529.0" y="341.1" width="22" height="53.9" fill="#ED7D31"/>
+<rect x="554.0" y="287.0" width="22" height="108.0" fill="#70AD47"/>
+<text x="540.0" y="423" transform="rotate(-15 540.0 423)" text-anchor="end" font-family="sans-serif" font-size="12">sitting</text>
+<rect x="634.0" y="155.9" width="22" height="239.1" fill="#4472C4"/>
+<rect x="659.0" y="331.9" width="22" height="63.1" fill="#ED7D31"/>
+<rect x="684.0" y="278.0" width="22" height="117.0" fill="#70AD47"/>
+<text x="670.0" y="423" transform="rotate(-15 670.0 423)" text-anchor="end" font-family="sans-serif" font-size="12">standing</text>
+<rect x="764.0" y="146.2" width="22" height="248.8" fill="#4472C4"/>
+<rect x="789.0" y="334.3" width="22" height="60.7" fill="#ED7D31"/>
+<rect x="814.0" y="276.9" width="22" height="118.1" fill="#70AD47"/>
+<text x="800.0" y="423" transform="rotate(-15 800.0 423)" text-anchor="end" font-family="sans-serif" font-size="12">laying</text>
+<rect x="85" y="485" width="14" height="14" fill="#4472C4"/>
+<text x="105" y="497" font-family="sans-serif" font-size="13">Train</text>
+<rect x="255" y="485" width="14" height="14" fill="#ED7D31"/>
+<text x="275" y="497" font-family="sans-serif" font-size="13">Validation</text>
+<rect x="425" y="485" width="14" height="14" fill="#70AD47"/>
+<text x="445" y="497" font-family="sans-serif" font-size="13">Test</text>
+</svg>
